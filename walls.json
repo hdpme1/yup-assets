@@ -12,6 +12,18 @@
     "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_home_02.jpg"
   },
   {
+    "name": "YUP Home 03",
+    "author": "YUP Studio",
+    "url": "https://hdpme1.github.io/yup-assets/walls/yup_home_03.jpg",
+    "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_home_03.jpg"
+  },
+  {
+    "name": "YUP Home 04",
+    "author": "YUP Studio",
+    "url": "https://hdpme1.github.io/yup-assets/walls/yup_home_04.jpg",
+    "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_home_04.jpg"
+  },
+  {
     "name": "YUP Lock 01",
     "author": "YUP Studio",
     "url": "https://hdpme1.github.io/yup-assets/walls/yup_lock_01.jpg",
@@ -22,6 +34,12 @@
     "author": "YUP Studio",
     "url": "https://hdpme1.github.io/yup-assets/walls/yup_lock_02.jpg",
     "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_lock_02.jpg"
+  }, 
+  {
+    "name": "YUP Lock 03",
+    "author": "YUP Studio",
+    "url": "https://hdpme1.github.io/yup-assets/walls/yup_lock_03.jpg",
+    "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_lock_03.jpg"
   }
 ]
 
