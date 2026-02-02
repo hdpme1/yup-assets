@@ -1,28 +1,27 @@
-{
-  "wallpapers": [
-    {
-      "name": "YUP Home 01",
-      "author": "YUP Studio",
-      "url": "https://hdpme1.github.io/yup-assets/walls/yup_home_01.jpg",
-      "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_home_01.jpg"
-    },
-    {
-      "name": "YUP Home 02",
-      "author": "YUP Studio",
-      "url": "https://hdpme1.github.io/yup-assets/walls/yup_home_02.jpg",
-      "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_home_02.jpg"
-    },
-    {
-      "name": "YUP Lock 01",
-      "author": "YUP Studio",
-      "url": "https://hdpme1.github.io/yup-assets/walls/yup_lock_01.jpg",
-      "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_lock_01.jpg"
-    },
-    {
-      "name": "YUP Lock 02",
-      "author": "YUP Studio",
-      "url": "https://hdpme1.github.io/yup-assets/walls/yup_lock_02.jpg",
-      "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_lock_02.jpg"
-    }
-  ]
-}
+[
+  {
+    "name": "YUP Home 01",
+    "author": "YUP Studio",
+    "url": "https://hdpme1.github.io/yup-assets/walls/yup_home_01.jpg",
+    "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_home_01.jpg"
+  },
+  {
+    "name": "YUP Home 02",
+    "author": "YUP Studio",
+    "url": "https://hdpme1.github.io/yup-assets/walls/yup_home_02.jpg",
+    "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_home_02.jpg"
+  },
+  {
+    "name": "YUP Lock 01",
+    "author": "YUP Studio",
+    "url": "https://hdpme1.github.io/yup-assets/walls/yup_lock_01.jpg",
+    "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_lock_01.jpg"
+  },
+  {
+    "name": "YUP Lock 02",
+    "author": "YUP Studio",
+    "url": "https://hdpme1.github.io/yup-assets/walls/yup_lock_02.jpg",
+    "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_lock_02.jpg"
+  }
+]
+
