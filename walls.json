@@ -12,6 +12,18 @@
     "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_home_02.jpg"
   },
   {
+    "name": "homescreen_tree",
+    "author": "YUP Studio",
+    "url": "https://hdpme1.github.io/yup-assets/walls/homescreen_tree.png",
+    "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_home_02.jpg"
+  },
+  {
+    "name": "homescreen_owl",
+    "author": "YUP Studio",
+    "url": "https://hdpme1.github.io/yup-assets/walls/homescreen_owl.png",
+    "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_home_02.jpg"
+  },
+  {
     "name": "YUP Home 03",
     "author": "YUP Studio",
     "url": "https://hdpme1.github.io/yup-assets/walls/yup_home_03.jpg",
@@ -22,6 +34,24 @@
     "author": "YUP Studio",
     "url": "https://hdpme1.github.io/yup-assets/walls/yup_home_04.jpg",
     "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_home_04.jpg"
+  },
+  {
+    "name": "lockscreen_owl",
+    "author": "YUP Studio",
+    "url": "https://hdpme1.github.io/yup-assets/walls/homescreen_owl.png",
+    "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_home_02.jpg"
+  },
+  {
+    "name": "lockscreen_owl_tree",
+    "author": "YUP Studio",
+    "url": "https://hdpme1.github.io/yup-assets/walls/lockscreen_owl_tree.png",
+    "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_home_02.jpg"
+  },
+  {
+    "name": "lockscreen_tree",
+    "author": "YUP Studio",
+    "url": "https://hdpme1.github.io/yup-assets/walls/lockscreen_tree.png",
+    "thumbUrl": "https://hdpme1.github.io/yup-assets/thumbs/yup_home_02.jpg"
   },
   {
     "name": "YUP Lock 01",
